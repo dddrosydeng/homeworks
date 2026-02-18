@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1394" viewBox="0 0 1900 1394">
+<defs><style><![CDATA[.title{font:700 30px "Segoe UI",Arial,sans-serif; fill:#0F172A;}.head{font:800 22px "Segoe UI",Arial,sans-serif; fill:#FFFFFF; letter-spacing:2.2px;}.txt{font:16px "Segoe UI",Arial,sans-serif; fill:#0F172A;}.foot{font:14px "Segoe UI",Arial,sans-serif; fill:#334155;}]]></style></defs>
+<rect x="0" y="0" width="1900" height="1394" fill="#FFFFFF"/>
+<text x="46" y="62" class="title">INITIATIVE → OUTPUT → OUTCOME MAPPING</text>
+<rect x="46" y="86" width="560" height="1240" rx="12" fill="#F8FAFC" stroke="#CBD5E1"/>
+<rect x="196.0" y="28" width="260" height="48" rx="10" fill="#0F172A"/>
+<text x="326.0" y="59" text-anchor="middle" class="head">INITIATIVE</text>
+<rect x="664" y="86" width="560" height="1240" rx="12" fill="#F8FAFC" stroke="#CBD5E1"/>
+<rect x="814.0" y="28" width="260" height="48" rx="10" fill="#0F172A"/>
+<text x="944.0" y="59" text-anchor="middle" class="head">OUTPUT</text>
+<rect x="1282" y="86" width="560" height="1240" rx="12" fill="#F8FAFC" stroke="#CBD5E1"/>
+<rect x="1432.0" y="28" width="260" height="48" rx="10" fill="#0F172A"/>
+<text x="1562.0" y="59" text-anchor="middle" class="head">OUTCOME</text>
+<rect x="60" y="120" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="678" y="120" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="1296" y="120" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="150" class="txt">Vertical integration across the value chain</text>
+<text x="694" y="150" class="txt">Stronger operational control</text>
+<text x="1312" y="148" class="txt"><tspan font-weight="800">Outcome A:</tspan> <tspan>Stable supply &amp; affordability</tspan></text>
+<text x="1312" y="174" class="txt"><tspan font-weight="800">Outcome C:</tspan> <tspan>Trust &amp; safety oversight</tspan></text>
+<line x1="596" y1="168.0" x2="674" y2="168.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="674,168.0 658,159.0 658,177.0" fill="#475569"/>
+<line x1="1214" y1="168.0" x2="1292" y2="168.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="1292,168.0 1276,159.0 1276,177.0" fill="#475569"/>
+<rect x="60" y="252" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="678" y="252" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="1296" y="252" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="282" class="txt">Supplier sustainability survey</text>
+<text x="694" y="282" class="txt">Supplier ESG baseline + engagement priorities</text>
+<text x="1312" y="280" class="txt"><tspan font-weight="800">Outcome C:</tspan> <tspan>Upstream consistency, reliability &amp; trust</tspan></text>
+<text x="1312" y="306" class="txt"><tspan font-weight="800">Outcome A:</tspan> <tspan>Fewer upstream disruptions</tspan></text>
+<line x1="596" y1="300.0" x2="674" y2="300.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="674,300.0 658,291.0 658,309.0" fill="#475569"/>
+<line x1="1214" y1="300.0" x2="1292" y2="300.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="1292,300.0 1276,291.0 1276,309.0" fill="#475569"/>
+<rect x="60" y="384" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="678" y="384" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="1296" y="384" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="414" class="txt">Farmer training</text>
+<text x="694" y="414" class="txt">Improved husbandry routines and management skills</text>
+<text x="1312" y="412" class="txt"><tspan font-weight="800">Outcome A:</tspan> <tspan>Stable farm output</tspan></text>
+<text x="1312" y="438" class="txt"><tspan font-weight="800">Outcome B:</tspan> <tspan>Productivity-linked livelihood gains</tspan></text>
+<line x1="596" y1="432.0" x2="674" y2="432.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="674,432.0 658,423.0 658,441.0" fill="#475569"/>
+<line x1="1214" y1="432.0" x2="1292" y2="432.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="1292,432.0 1276,423.0 1276,441.0" fill="#475569"/>
+<rect x="60" y="516" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="678" y="516" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="1296" y="516" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="546" class="txt">Agricultural extension services + local</text>
+<text x="76" y="570" class="txt">technical sessions</text>
+<text x="694" y="546" class="txt">Recurring knowledge transfer and troubleshooting</text>
+<text x="1312" y="544" class="txt"><tspan font-weight="800">Outcome A:</tspan> <tspan>Better adoption &amp; production stability</tspan></text>
+<text x="1312" y="570" class="txt"><tspan font-weight="800">Outcome B:</tspan> <tspan>Capability-driven income stability</tspan></text>
+<line x1="596" y1="564.0" x2="674" y2="564.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="674,564.0 658,555.0 658,573.0" fill="#475569"/>
+<line x1="1214" y1="564.0" x2="1292" y2="564.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="1292,564.0 1276,555.0 1276,573.0" fill="#475569"/>
+<rect x="60" y="648" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="678" y="648" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="1296" y="648" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="678" class="txt">Closed-house transition + capital/documentation</text>
+<text x="76" y="702" class="txt">guidance</text>
+<text x="694" y="678" class="txt">System upgrades + better chicken health,</text>
+<text x="694" y="702" class="txt">productivity, climate adaptability</text>
+<text x="1312" y="676" class="txt"><tspan font-weight="800">Outcome C:</tspan> <tspan>Product safety</tspan></text>
+<text x="1312" y="702" class="txt"><tspan font-weight="800">Outcome A:</tspan> <tspan>Higher, steadier output</tspan></text>
+<text x="1312" y="728" class="txt"><tspan font-weight="800">Outcome B:</tspan> <tspan>Improved livelihoods</tspan></text>
+<line x1="596" y1="696.0" x2="674" y2="696.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="674,696.0 658,687.0 658,705.0" fill="#475569"/>
+<line x1="1214" y1="696.0" x2="1292" y2="696.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="1292,696.0 1276,687.0 1276,705.0" fill="#475569"/>
+<rect x="60" y="780" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="678" y="780" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="1296" y="780" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="810" class="txt">Profit-sharing + price floors</text>
+<text x="694" y="810" class="txt">Downside protection with upside participation</text>
+<text x="1312" y="808" class="txt"><tspan font-weight="800">Outcome B:</tspan> <tspan>Lower income volatility</tspan></text>
+<text x="1312" y="834" class="txt"><tspan font-weight="800">Outcome A:</tspan> <tspan>Sustained participation stabilizing</tspan></text>
+<text x="1334" y="856" class="txt">supply</text>
+<line x1="596" y1="828.0" x2="674" y2="828.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="674,828.0 658,819.0 658,837.0" fill="#475569"/>
+<line x1="1214" y1="828.0" x2="1292" y2="828.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="1292,828.0 1276,819.0 1276,837.0" fill="#475569"/>
+<rect x="60" y="912" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="678" y="912" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="1296" y="912" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="942" class="txt">SAP fleet monitoring</text>
+<text x="694" y="942" class="txt">Improved logistics control and reduced animal stress</text>
+<text x="1312" y="940" class="txt"><tspan font-weight="800">Outcome A:</tspan> <tspan>Reliable delivery/quality and stable</tspan></text>
+<text x="1334" y="962" class="txt">supply</text>
+<line x1="596" y1="960.0" x2="674" y2="960.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="674,960.0 658,951.0 658,969.0" fill="#475569"/>
+<line x1="1214" y1="960.0" x2="1292" y2="960.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="1292,960.0 1276,951.0 1276,969.0" fill="#475569"/>
+<rect x="60" y="1044" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="678" y="1044" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="1296" y="1044" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="1074" class="txt">Barcode traceability system</text>
+<text x="694" y="1074" class="txt">End-to-end traceability records</text>
+<text x="1312" y="1072" class="txt"><tspan font-weight="800">Outcome C:</tspan> <tspan>Transparency, product safety, consumer</tspan></text>
+<text x="1334" y="1094" class="txt">trust</text>
+<line x1="596" y1="1092.0" x2="674" y2="1092.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="674,1092.0 658,1083.0 658,1101.0" fill="#475569"/>
+<line x1="1214" y1="1092.0" x2="1292" y2="1092.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="1292,1092.0 1276,1083.0 1276,1101.0" fill="#475569"/>
+<rect x="60" y="1176" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="678" y="1176" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<rect x="1296" y="1176" width="532" height="96" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="1206" class="txt">LCA + rainwater actions</text>
+<text x="694" y="1206" class="txt">Hotspot identification and mitigation actions</text>
+<text x="1312" y="1204" class="txt"><tspan font-weight="800">Outcome D:</tspan> <tspan>Reduced water use and waste impacts</tspan></text>
+<line x1="596" y1="1224.0" x2="674" y2="1224.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="674,1224.0 658,1215.0 658,1233.0" fill="#475569"/>
+<line x1="1214" y1="1224.0" x2="1292" y2="1224.0" stroke="#475569" stroke-width="3.2"/>
+<polygon points="1292,1224.0 1276,1215.0 1276,1233.0" fill="#475569"/>
+<text x="46" y="1370" class="foot">Design style: minimalist, finance-grade, audit-friendly readability.</text>
+</svg>
