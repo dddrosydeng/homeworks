@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1820" height="855" viewBox="0 0 1820 855">
-<defs><style><![CDATA[.title{font:800 28px "Segoe UI",Arial,sans-serif; fill:#0F172A; letter-spacing:1px;}.head{font:800 17px "Segoe UI",Arial,sans-serif; fill:#FFFFFF; letter-spacing:1.8px;}.txt{font:12pt "Segoe UI",Arial,sans-serif; fill:#0F172A;}.foot{font:11pt "Segoe UI",Arial,sans-serif; fill:#334155;}]]></style></defs>
+<defs><style><![CDATA[.title{font:800 28px "Segoe UI",Arial,sans-serif; fill:#0F172A; letter-spacing:1px;}.head{font:800 20px "Segoe UI",Arial,sans-serif; fill:#FFFFFF; letter-spacing:1.8px;}.txt{font:16pt "Segoe UI",Arial,sans-serif; fill:#0F172A;}]]></style></defs>
 <rect x="0" y="0" width="1820" height="855" fill="#FFFFFF"/>
 <rect x="44" y="82" width="530" height="729" rx="12" fill="#F8FAFC" stroke="#CBD5E1"/>
 <rect x="622" y="82" width="530" height="729" rx="12" fill="#F8FAFC" stroke="#CBD5E1"/>
@@ -111,5 +111,4 @@
 <polygon points="630,766.0 612,756.0 612,776.0" fill="#475569"/>
 <line x1="1144" y1="766.0" x2="1208" y2="766.0" stroke="#475569" stroke-width="3.8"/>
 <polygon points="1208,766.0 1190,756.0 1190,776.0" fill="#475569"/>
-<text x="44" y="841" class="foot">Word-ready: 12pt body text, centered labels, compact adaptive cards.</text>
 </svg>
