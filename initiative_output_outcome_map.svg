@@ -1,10 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1820" height="855" viewBox="0 0 1820 855">
 <defs><style><![CDATA[.title{font:800 28px "Segoe UI",Arial,sans-serif; fill:#0F172A; letter-spacing:1px;}.head{font:800 16px "Segoe UI",Arial,sans-serif; fill:#FFFFFF; letter-spacing:1.8px;}.txt{font:11pt "Segoe UI",Arial,sans-serif; fill:#0F172A;}.foot{font:10.5pt "Segoe UI",Arial,sans-serif; fill:#334155;}]]></style></defs>
 <rect x="0" y="0" width="1820" height="855" fill="#FFFFFF"/>
-<text x="44" y="58" class="title">INITIATIVE</text>
 <rect x="44" y="82" width="530" height="729" rx="12" fill="#F8FAFC" stroke="#CBD5E1"/>
 <rect x="622" y="82" width="530" height="729" rx="12" fill="#F8FAFC" stroke="#CBD5E1"/>
 <rect x="1200" y="82" width="530" height="729" rx="12" fill="#F8FAFC" stroke="#CBD5E1"/>
+<rect x="184.0" y="22" width="250" height="44" rx="10" fill="#0F172A"/>
+<text x="309.0" y="50" text-anchor="middle" class="head">INITIATIVE</text>
 <rect x="762.0" y="22" width="250" height="44" rx="10" fill="#0F172A"/>
 <text x="887.0" y="50" text-anchor="middle" class="head">OUTPUT</text>
 <rect x="1340.0" y="22" width="250" height="44" rx="10" fill="#0F172A"/>
