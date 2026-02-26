@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1505" viewBox="0 0 1900 1505">
+<defs>
+<marker id="arrowhead" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto"><polygon points="0 0, 12 5, 0 10" fill="#475569"/></marker>
+<style><![CDATA[.title{font:700 32px Arial; fill:#0F172A;}
+.head{font:800 24px Arial; letter-spacing:2px; fill:#FFFFFF;}
+.txt{font:16px Arial; fill:#0F172A;}
+.small{font:14px Arial; fill:#334155;}
+]]></style>
+</defs>
+<rect x="0" y="0" width="1900" height="1505" fill="#FFFFFF"/>
+<text x="50" y="60" class="title">INITIATIVE → OUTPUT → OUTCOME MAPPING</text>
+<rect x="50" y="90" width="573" height="1375" rx="10" fill="#F8FAFC" stroke="#CBD5E1"/>
+<rect x="206.5" y="28" width="260" height="48" rx="10" fill="#0F172A"/>
+<text x="336.5" y="60" text-anchor="middle" class="head">INITIATIVE</text>
+<rect x="663" y="90" width="573" height="1375" rx="10" fill="#F8FAFC" stroke="#CBD5E1"/>
+<rect x="819.5" y="28" width="260" height="48" rx="10" fill="#0F172A"/>
+<text x="949.5" y="60" text-anchor="middle" class="head">OUTPUT</text>
+<rect x="1276" y="90" width="573" height="1375" rx="10" fill="#F8FAFC" stroke="#CBD5E1"/>
+<rect x="1432.5" y="28" width="260" height="48" rx="10" fill="#0F172A"/>
+<text x="1562.5" y="60" text-anchor="middle" class="head">OUTCOME</text>
+<rect x="64" y="165" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="212.0" class="txt">
+<tspan x="76" dy="0">Vertical integration across the value</tspan>
+<tspan x="76" dy="21">chain</tspan>
+</text>
+<rect x="677" y="165" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="689" y="222.5" class="txt">
+<tspan x="689" dy="0">Stronger operational control</tspan>
+</text>
+<rect x="1290" y="165" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="1302" y="202.0" class="txt">
+<tspan x="1302" dy="0"><tspan font-weight="700">Outcome A:</tspan> Stable supply &amp; affordability</tspan>
+<tspan x="1302" dy="20"> </tspan>
+<tspan x="1302" dy="20"><tspan font-weight="700">Outcome C:</tspan> Trust &amp; safety oversight</tspan>
+</text>
+<line x1="621" y1="217.0" x2="665" y2="217.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<line x1="1234" y1="217.0" x2="1278" y2="217.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<rect x="64" y="305" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="362.5" class="txt">
+<tspan x="76" dy="0">Supplier sustainability survey</tspan>
+</text>
+<rect x="677" y="305" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="689" y="352.0" class="txt">
+<tspan x="689" dy="0">Supplier ESG baseline + engagement</tspan>
+<tspan x="689" dy="21">priorities</tspan>
+</text>
+<rect x="1290" y="305" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="1302" y="332.0" class="txt">
+<tspan x="1302" dy="0"><tspan font-weight="700">Outcome C:</tspan> Upstream consistency, reliability</tspan>
+<tspan x="1302" dy="20">&amp; trust</tspan>
+<tspan x="1302" dy="20"> </tspan>
+<tspan x="1302" dy="20"><tspan font-weight="700">Outcome A:</tspan> Fewer upstream disruptions</tspan>
+</text>
+<line x1="621" y1="357.0" x2="665" y2="357.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<line x1="1234" y1="357.0" x2="1278" y2="357.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<rect x="64" y="445" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="502.5" class="txt">
+<tspan x="76" dy="0">Farmer training</tspan>
+</text>
+<rect x="677" y="445" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="689" y="492.0" class="txt">
+<tspan x="689" dy="0">Improved husbandry routines and management</tspan>
+<tspan x="689" dy="21">skills</tspan>
+</text>
+<rect x="1290" y="445" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="1302" y="472.0" class="txt">
+<tspan x="1302" dy="0"><tspan font-weight="700">Outcome A:</tspan> Stable farm output</tspan>
+<tspan x="1302" dy="20"> </tspan>
+<tspan x="1302" dy="20"><tspan font-weight="700">Outcome B:</tspan> Productivity-linked livelihood</tspan>
+<tspan x="1302" dy="20">gains</tspan>
+</text>
+<line x1="621" y1="497.0" x2="665" y2="497.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<line x1="1234" y1="497.0" x2="1278" y2="497.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<rect x="64" y="585" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="632.0" class="txt">
+<tspan x="76" dy="0">Agricultural extension services + local</tspan>
+<tspan x="76" dy="21">technical sessions</tspan>
+</text>
+<rect x="677" y="585" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="689" y="632.0" class="txt">
+<tspan x="689" dy="0">Recurring knowledge transfer and</tspan>
+<tspan x="689" dy="21">troubleshooting</tspan>
+</text>
+<rect x="1290" y="585" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="1302" y="612.0" class="txt">
+<tspan x="1302" dy="0"><tspan font-weight="700">Outcome A:</tspan> Better adoption &amp; production</tspan>
+<tspan x="1302" dy="20">stability</tspan>
+<tspan x="1302" dy="20"> </tspan>
+<tspan x="1302" dy="20"><tspan font-weight="700">Outcome B:</tspan> Capability-driven income stability</tspan>
+</text>
+<line x1="621" y1="637.0" x2="665" y2="637.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<line x1="1234" y1="637.0" x2="1278" y2="637.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<rect x="64" y="725" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="772.0" class="txt">
+<tspan x="76" dy="0">Closed-house transition +</tspan>
+<tspan x="76" dy="21">capital/documentation guidance</tspan>
+</text>
+<rect x="677" y="725" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="689" y="772.0" class="txt">
+<tspan x="689" dy="0">System upgrades + better chicken</tspan>
+<tspan x="689" dy="21">health/productivity/climate adaptability</tspan>
+</text>
+<rect x="1290" y="725" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="1302" y="742.0" class="txt">
+<tspan x="1302" dy="0"><tspan font-weight="700">Outcome C:</tspan> Product safety</tspan>
+<tspan x="1302" dy="20"> </tspan>
+<tspan x="1302" dy="20"><tspan font-weight="700">Outcome A:</tspan> Higher, steadier output</tspan>
+<tspan x="1302" dy="20"> </tspan>
+<tspan x="1302" dy="20"><tspan font-weight="700">Outcome B:</tspan> Improved livelihoods</tspan>
+</text>
+<line x1="621" y1="777.0" x2="665" y2="777.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<line x1="1234" y1="777.0" x2="1278" y2="777.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<rect x="64" y="865" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="922.5" class="txt">
+<tspan x="76" dy="0">Profit-sharing + price floors</tspan>
+</text>
+<rect x="677" y="865" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="689" y="912.0" class="txt">
+<tspan x="689" dy="0">Downside protection with upside</tspan>
+<tspan x="689" dy="21">participation</tspan>
+</text>
+<rect x="1290" y="865" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="1302" y="892.0" class="txt">
+<tspan x="1302" dy="0"><tspan font-weight="700">Outcome B:</tspan> Lower income volatility</tspan>
+<tspan x="1302" dy="20"> </tspan>
+<tspan x="1302" dy="20"><tspan font-weight="700">Outcome A:</tspan> Sustained participation</tspan>
+<tspan x="1302" dy="20">stabilizing supply</tspan>
+</text>
+<line x1="621" y1="917.0" x2="665" y2="917.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<line x1="1234" y1="917.0" x2="1278" y2="917.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<rect x="64" y="1005" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="1062.5" class="txt">
+<tspan x="76" dy="0">SAP fleet monitoring</tspan>
+</text>
+<rect x="677" y="1005" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="689" y="1052.0" class="txt">
+<tspan x="689" dy="0">Improved logistics control and reduced</tspan>
+<tspan x="689" dy="21">animal stress</tspan>
+</text>
+<rect x="1290" y="1005" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="1302" y="1052.0" class="txt">
+<tspan x="1302" dy="0"><tspan font-weight="700">Outcome A:</tspan> Reliable delivery/quality and</tspan>
+<tspan x="1302" dy="20">stable supply</tspan>
+</text>
+<line x1="621" y1="1057.0" x2="665" y2="1057.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<line x1="1234" y1="1057.0" x2="1278" y2="1057.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<rect x="64" y="1145" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="1202.5" class="txt">
+<tspan x="76" dy="0">Barcode traceability system</tspan>
+</text>
+<rect x="677" y="1145" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="689" y="1202.5" class="txt">
+<tspan x="689" dy="0">End-to-end traceability records</tspan>
+</text>
+<rect x="1290" y="1145" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="1302" y="1192.0" class="txt">
+<tspan x="1302" dy="0"><tspan font-weight="700">Outcome C:</tspan> Transparency, product safety,</tspan>
+<tspan x="1302" dy="20">consumer trust</tspan>
+</text>
+<line x1="621" y1="1197.0" x2="665" y2="1197.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<line x1="1234" y1="1197.0" x2="1278" y2="1197.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<rect x="64" y="1285" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="76" y="1342.5" class="txt">
+<tspan x="76" dy="0">LCA + rainwater actions</tspan>
+</text>
+<rect x="677" y="1285" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="689" y="1332.0" class="txt">
+<tspan x="689" dy="0">Hotspot identification and mitigation</tspan>
+<tspan x="689" dy="21">actions</tspan>
+</text>
+<rect x="1290" y="1285" width="545" height="104" rx="8" fill="#FFFFFF" stroke="#94A3B8"/>
+<text x="1302" y="1332.0" class="txt">
+<tspan x="1302" dy="0"><tspan font-weight="700">Outcome D:</tspan> Reduced water use and waste</tspan>
+<tspan x="1302" dy="20">impacts</tspan>
+</text>
+<line x1="621" y1="1337.0" x2="665" y2="1337.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<line x1="1234" y1="1337.0" x2="1278" y2="1337.0" stroke="#475569" stroke-width="3.2" marker-end="url(#arrowhead)"/>
+<text x="50" y="1483" class="small">Design style: minimalist, finance-grade, audit-friendly, with aligned headers and emphasized outcome labels.</text>
+</svg>
