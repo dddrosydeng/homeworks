@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="504" viewBox="0 0 920 504">
+<style>
+text { font-family: Arial, sans-serif; fill: #222; }
+.title { font-size: 18px; font-weight: bold; }
+.label { font-size: 12px; }
+.celltext { font-size: 12px; font-weight: bold; fill: #fff; }
+</style>
+<text x="20" y="30" class="title">TCFD Recommended Disclosure Heatmap (Wilmar)</text>
+<text x="20" y="50" class="label">Scoring: Full=2, Partial=1, No=0 (higher is better)</text>
+<text x="20" y="91" class="label">Governance / Board Oversight</text>
+<rect x="360" y="70" width="520" height="32" fill="#2e7d32" rx="4" ry="4"/>
+<text x="370" y="91" class="celltext">Full (avg=1.57, n=7)</text>
+<text x="20" y="125" class="label">Governance / Management's Role</text>
+<rect x="360" y="104" width="520" height="32" fill="#2e7d32" rx="4" ry="4"/>
+<text x="370" y="125" class="celltext">Full (avg=1.67, n=6)</text>
+<text x="20" y="159" class="label">Metrics and Targets / Metrics Used</text>
+<rect x="360" y="138" width="520" height="32" fill="#f9a825" rx="4" ry="4"/>
+<text x="370" y="159" class="celltext">Partial (avg=1.20, n=10)</text>
+<text x="20" y="193" class="label">Metrics and Targets / Scope 1, Scope 2, and Scope 3 Greenhouse Gas (GHG) Emissions</text>
+<rect x="360" y="172" width="520" height="32" fill="#2e7d32" rx="4" ry="4"/>
+<text x="370" y="193" class="celltext">Full (avg=1.54, n=13)</text>
+<text x="20" y="227" class="label">Metrics and Targets / Targets</text>
+<rect x="360" y="206" width="520" height="32" fill="#2e7d32" rx="4" ry="4"/>
+<text x="370" y="227" class="celltext">Full (avg=1.70, n=10)</text>
+<text x="20" y="261" class="label">Risk Management / Integration into Overall Risk Management</text>
+<rect x="360" y="240" width="520" height="32" fill="#2e7d32" rx="4" ry="4"/>
+<text x="370" y="261" class="celltext">Full (avg=2.00, n=1)</text>
+<text x="20" y="295" class="label">Risk Management / Process for Identifying and Assessing Risks</text>
+<rect x="360" y="274" width="520" height="32" fill="#f9a825" rx="4" ry="4"/>
+<text x="370" y="295" class="celltext">Partial (avg=1.40, n=5)</text>
+<text x="20" y="329" class="label">Risk Management / Process for Managing Risks</text>
+<rect x="360" y="308" width="520" height="32" fill="#f9a825" rx="4" ry="4"/>
+<text x="370" y="329" class="celltext">Partial (avg=1.20, n=5)</text>
+<text x="20" y="363" class="label">Strategy / Climate-Related Risks and Opportunities</text>
+<rect x="360" y="342" width="520" height="32" fill="#2e7d32" rx="4" ry="4"/>
+<text x="370" y="363" class="celltext">Full (avg=1.80, n=10)</text>
+<text x="20" y="397" class="label">Strategy / Impact on Business, Strategy, and Financial Planning</text>
+<rect x="360" y="376" width="520" height="32" fill="#f9a825" rx="4" ry="4"/>
+<text x="370" y="397" class="celltext">Partial (avg=1.00, n=14)</text>
+<text x="20" y="431" class="label">Strategy / Resilience of Strategy:</text>
+<rect x="360" y="410" width="520" height="32" fill="#f9a825" rx="4" ry="4"/>
+<text x="370" y="431" class="celltext">Partial (avg=1.29, n=7)</text>
+<text x="20" y="464" class="label">Legend:</text>
+<rect x="80" y="452" width="24" height="16" fill="#2e7d32" rx="3"/>
+<text x="112" y="464" class="label">Full=2</text>
+<rect x="250" y="452" width="24" height="16" fill="#f9a825" rx="3"/>
+<text x="282" y="464" class="label">Partial=1</text>
+<rect x="420" y="452" width="24" height="16" fill="#c62828" rx="3"/>
+<text x="452" y="464" class="label">No=0</text>
+</svg>
